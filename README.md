@@ -29,7 +29,7 @@ A simple and responsive To-Do Application built using React JS and Vite. This ap
 
 ## 🔗 Repository Link
 
-https://github.com/your-username/To-Do-Application
+https://github.com/chavannandini28/To-Do-Application.git
 
 ---
 
